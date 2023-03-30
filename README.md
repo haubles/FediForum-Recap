@@ -5,4 +5,6 @@ It consisted of two half days of virtual meetings for discussions, problem solvi
 
 It also included speed demos of Fediverse apps and some presentations, as well as ad-hoc working groups, for everyone from developers to users.
 
+Here is the event website: https://fediforum.org/
+
 # Attendees
