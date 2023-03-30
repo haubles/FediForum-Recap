@@ -34,4 +34,4 @@
 
 ### The Future of News on the Internet
 
-### Privite Posting in the Fediverse
+### Private Posting in the Fediverse
